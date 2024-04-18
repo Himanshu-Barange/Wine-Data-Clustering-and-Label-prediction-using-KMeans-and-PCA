@@ -2,7 +2,7 @@
 **Data Source:** Kaggle  
 **Libraries Utilized:** Sklearn, Pandas, Seaborn, Matplotlib
 
-- The sourced dataset was already in clean.
+- The sourced dataset was already clean.
 - Normalized the feature vectors.
 - Detemined the 'k' using Elbow method
 - Also utilized Silhouette Score plot for better selection of 'k'
