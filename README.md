@@ -1,5 +1,6 @@
 # Description
-**Source:** Kaggle
+**Data Source:** Kaggle
+**Libraries Utilized:** Sklearn, Pandas, Seaborn, Matplotlib
 
 - The sourced dataset was already in clean.
 - Normalized the feature vectors.
